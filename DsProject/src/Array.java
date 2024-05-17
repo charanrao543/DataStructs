@@ -180,4 +180,5 @@ public class Array extends JFrame {
 		displaybox.setColumns(10);
 	}
 
+
 }
