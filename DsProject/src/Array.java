@@ -99,6 +99,7 @@ public class Array extends JFrame {
 		contentPane.add(element);
 		element.setColumns(10);
 		
+		
 		JButton insert = new JButton("INSERT");
 		insert.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
